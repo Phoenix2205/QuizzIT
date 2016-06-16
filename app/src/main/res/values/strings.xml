@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quizz</string>
+    <string name="level_hard">Hard Mode</string>
+    <string name="level_medium">Medium Mode</string>
+    <string name="level_easy">Easy Mode</string>
+    <string name="level_random">Random</string>
+    <string name="quiz_of_quizzes">%1$s / %2$s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

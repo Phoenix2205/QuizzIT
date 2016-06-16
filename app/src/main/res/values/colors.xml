@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorLaunch">#19dcff</color>
+    <color name="topeka_primary">#00bad2</color>
+    <color name="colorSignIn">#fff4f4</color>
+    <color name="colorEasy">#b9f6ca</color>
+    <color name="colorMedium">#1de9b6</color>
+    <color name="colorHard">#19cc9f</color>
+    <color name="colorRandom">#00e676</color>
+    <color name="topeka_primary_dark">#00a3b8</color>
+    <color name="topeka_accent">#3F51B5</color>
+    <color name="text_light">@android:color/white</color>
+    <color name="text_dark">#616161</color>
+    <color name="light_grey">#f5f5f5</color>
+</resources>
